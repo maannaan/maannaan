@@ -1,24 +1,14 @@
 <!--
   Profile art generators:
-    python scripts/prep_photo.py source-photo.jpg
-    python scripts/make_ascii_svg.py
-    python scripts/make_info_card.py
+    python scripts/prep_badge.py
+    python scripts/make_control_room.py
     python scripts/fetch_contributions.py && python scripts/render_heatmap_svg.py
-  All identity/bio content lives in scripts/profile_config.py
+  All identity / panel content lives in scripts/profile_config.py
 -->
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="./ascii-portrait.svg" alt="Manan Paliwal — ASCII portrait" width="420" />
-    </td>
-    <td>
-      <img src="./info-card.svg" alt="Manan Paliwal — role, stack, highlights" width="420" />
-    </td>
-  </tr>
-</table>
+<img src="./control-room.svg" alt="Manan Paliwal — platform control room" width="100%" />
 
 ## Manan Paliwal
 
