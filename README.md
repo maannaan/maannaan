@@ -2,7 +2,9 @@
   Profile art generators:
     python scripts/prep_badge.py
     python scripts/make_control_room.py
+    python scripts/make_mission_dossiers.py
     python scripts/fetch_contributions.py && python scripts/render_heatmap_svg.py
+    python scripts/fetch_ops_log.py
   All identity / panel content lives in scripts/profile_config.py
 -->
 
@@ -21,6 +23,21 @@
 
 <br/>
 
+<img src="./mission-dossiers.svg" alt="Mission dossiers — featured engineering work" width="100%" />
+
+<br/>
+
 <img src="./contrib-heatmap.svg" alt="Manan's GitHub contribution graph — auto-refreshed daily" width="100%" />
 
 </div>
+
+### Ops log
+
+<!-- START_SECTION:ops_log -->
+- `2026-07-25 · pushed to maannaan/maannaan`
+- `2026-07-25 · created branch main on maannaan/maannaan`
+- `2026-07-04 · pushed to maannaan/AISRE`
+- `2026-07-04 · created branch main on maannaan/AISRE`
+- `2026-06-30 · pushed to maannaan/mastervondoom`
+- `2026-06-30 · created branch main on maannaan/mastervondoom`
+<!-- END_SECTION:ops_log -->
