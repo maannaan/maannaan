@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="./contrib-heatmap.svg" alt="Manan's GitHub contribution graph — auto-refreshed daily" width="100%" />
+<img src="./contrib-heatmap.svg" alt="Manan's contribution stats — auto-refreshed daily" width="100%" />
 
 </div>
 
