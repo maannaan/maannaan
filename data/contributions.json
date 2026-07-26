@@ -1,12 +1,12 @@
 {
   "username": "maannaan",
-  "generated_at": "2026-07-25T12:22:27Z",
+  "generated_at": "2026-07-26T08:41:18Z",
   "range": {
     "start": "2023-12-14",
-    "end": "2026-07-25"
+    "end": "2026-07-26"
   },
-  "total_contributions": 95,
-  "last_year_contributions": 39,
+  "total_contributions": 96,
+  "last_year_contributions": 40,
   "active_days": 33,
   "avg_per_active_day": 2.9,
   "current_streak": {
@@ -150,42 +150,14 @@
     },
     {
       "month": "2026-07",
-      "total": 14
+      "total": 15
     }
   ],
   "grid_range": {
-    "start": "2025-07-13",
-    "end": "2026-07-25"
+    "start": "2025-07-20",
+    "end": "2026-07-26"
   },
   "days": [
-    {
-      "date": "2025-07-13",
-      "count": 0
-    },
-    {
-      "date": "2025-07-14",
-      "count": 0
-    },
-    {
-      "date": "2025-07-15",
-      "count": 0
-    },
-    {
-      "date": "2025-07-16",
-      "count": 0
-    },
-    {
-      "date": "2025-07-17",
-      "count": 0
-    },
-    {
-      "date": "2025-07-18",
-      "count": 0
-    },
-    {
-      "date": "2025-07-19",
-      "count": 0
-    },
     {
       "date": "2025-07-20",
       "count": 0
@@ -1668,7 +1640,11 @@
     },
     {
       "date": "2026-07-25",
-      "count": 12
+      "count": 13
+    },
+    {
+      "date": "2026-07-26",
+      "count": 0
     }
   ]
 }
