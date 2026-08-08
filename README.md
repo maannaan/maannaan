@@ -34,6 +34,7 @@
 ### Ops log
 
 <!-- START_SECTION:ops_log -->
+- `2026-08-07 · created branch main on maannaan/Savora`
 - `2026-08-06 · pushed to maannaan/Deplot`
 - `2026-08-06 · created branch main on maannaan/Deplot`
 - `2026-08-03 · pushed to maannaan/CloudForge`
