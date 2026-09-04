@@ -34,12 +34,12 @@
 ### Ops log
 
 <!-- START_SECTION:ops_log -->
+- `2026-09-03 · pushed to maannaan/Relay`
+- `2026-09-02 · pushed to maannaan/Relay`
 - `2026-09-01 · created branch main on maannaan/Relay`
 - `2026-07-25 · open-sourced maannaan/maannaan`
 - `2026-08-30 · pushed to maannaan/Ripple`
 - `2026-08-28 · open-sourced maannaan/Ripple`
 - `2026-08-23 · pushed to maannaan/Mend`
 - `2026-08-17 · open-sourced maannaan/Mend`
-- `2026-08-17 · pushed to maannaan/Deplot`
-- `2026-08-10 · pushed to maannaan/Deplot`
 <!-- END_SECTION:ops_log -->
