@@ -34,6 +34,5 @@
 ### Ops log
 
 <!-- START_SECTION:ops_log -->
-- `2026-09-17 · created branch feat/teammate/m0-ingestion-contracts on nothariharan/continuum`
-- `2026-09-17 · opened PR #35 on nothariharan/continuum`
+- `_no recent public activity_`
 <!-- END_SECTION:ops_log -->
