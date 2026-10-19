@@ -34,5 +34,6 @@
 ### Ops log
 
 <!-- START_SECTION:ops_log -->
-- `_no recent public activity_`
+- `2026-10-18 · pushed to maannaan/faultline`
+- `2026-10-18 · created branch main on maannaan/faultline`
 <!-- END_SECTION:ops_log -->
