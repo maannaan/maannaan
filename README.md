@@ -34,6 +34,7 @@
 ### Ops log
 
 <!-- START_SECTION:ops_log -->
+- `2026-11-22 · created branch main on maannaan/cafex`
 - `2026-11-07 · pushed to maannaan/ledgerline-platform`
 - `2026-11-06 · pushed to maannaan/ledgerline-platform`
 - `2026-11-03 · pushed to maannaan/ledgerline-platform`
